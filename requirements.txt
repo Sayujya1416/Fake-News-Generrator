@@ -1,0 +1,22 @@
+# Fake News Generator and Detector Dependencies
+
+# Web Framework
+Flask>=2.3.0
+
+# Core Python libraries (included with Python standard library)
+# - re: Regular expressions
+# - random: Random number generation
+# - string: String constants
+# - typing: Type hints
+# - dataclasses: Data classes
+# - json: JSON processing
+# - logging: Logging functionality
+# - datetime: Date and time handling
+
+# Optional: For enhanced NLP capabilities, you could add:
+# nltk>=3.8.1
+# scikit-learn>=1.3.0
+# numpy>=1.24.0
+# pandas>=2.0.0
+# transformers>=4.30.0
+# torch>=2.0.0 
