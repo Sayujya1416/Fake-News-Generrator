@@ -1,1 +1,1 @@
-# Fake-News-Generrator
+# Fake-News-Generator
